@@ -6,7 +6,7 @@
 ### Contributors
 
 - **Burak Arslan** ([@arslan38](https://github.com/arslan38)) - Creator & Maintainer
-
+- **Hikmet Gultekin** ([@hikmedit](https://github.com/hikmedit)) - Creator & Maintainer
 ---
 
 <p align="center">
