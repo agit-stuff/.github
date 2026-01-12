@@ -7,6 +7,15 @@
 
 - **Burak Arslan** ([@arslan38](https://github.com/arslan38)) - Creator & Maintainer
 - **Hikmet Gultekin** ([@hikmedit](https://github.com/hikmedit)) - Creator & Maintainer
+
+### Support the Project
+
+Agit is an open-source project. If you find it useful, please consider supporting its development to help us maintain the infrastructure and build new features.
+
+<a href="https://www.patreon.com/cw/agitccm">
+  Support on Patreon
+</a
+  
 ---
 
 <p align="center">
