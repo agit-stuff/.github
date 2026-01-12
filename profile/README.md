@@ -1,6 +1,6 @@
 **agit** captures the reasoning context (Why/How) alongside your code changes (What). It creates a "Neural Graph" parallel to Git's commit graph, giving you and your team a complete history of not just what changed, but *why* it changed and *how* the decision was made. Zero configuration with MCP auto-discovery and seamless integration with Cursor and Claude Code. Built on libgit2, works alongside your existing Git workflow so you don't have to change your workflow.
 
-**[Documentation](https://agit-stuff.github.io/)** · **[GitHub](https://github.com/agit-stuff/agit)**
+**[Documentation](https://www.agit-ccm.com)** · **[GitHub](https://github.com/agit-stuff/agit)**
 
 
 ### Contributors
